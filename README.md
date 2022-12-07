@@ -11,4 +11,4 @@
 3판 2선승제로 승부가 나며 무승부라면 다시 승부를 겨룬다.
 
 ## Installing
-git clon https://github.com/nugaeun/Team8.git
+git clone https://github.com/nugaeun/Team8.git
